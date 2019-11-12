@@ -58,7 +58,7 @@ gem 'bulma-rails', '~> 0.6.1'
 # Simple forms
  gem 'simple_form', '~> 5.0.1'
 
-  gem 'wdm', '>= 0.1.0'
+gem 'wdm', '>= 0.1.0'
   
 gem 'bootsnap', '>= 1.4.2', require: false
 
@@ -66,12 +66,14 @@ gem 'bootsnap', '>= 1.4.2', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'pg' 
    
 end
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console', '>= 3.3.0'
+  gem 'pg' 
   gem 'listen', '>= 2.7', '< 4.0'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
