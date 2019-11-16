@@ -1,5 +1,8 @@
 class PostsController < ApplicationController
 	 # before_action :find_post, only: [:show, :update, :edit, :destroy]
+	 before_action :require_login
+ 
+ 
 
 	def index
 		@posts = Post.all.order("created_at DESC")
@@ -55,4 +58,12 @@ class PostsController < ApplicationController
 		@post = Post.find(id)
 	end
 
+	private
+ 
+	def require_login
+	  if  session[:user_id]  ==nil
+		flash[:error] = "You must be logged in to access this section"
+		redirect_to '/auth/login' # halts request cycle
+	  end
+	end
 end
