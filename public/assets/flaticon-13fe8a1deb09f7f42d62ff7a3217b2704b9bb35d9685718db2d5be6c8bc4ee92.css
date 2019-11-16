@@ -1,0 +1,1234 @@
+/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 20/03/2017 20:02
+  	*/
+@font-face {
+  font-family: "Flaticon";
+  src: url(/assets/Flaticon-20df13ade2db1bfb4fdbc35aad1d90169cbcf5d5b6b61f3c56b2c2ec395f50b7.eot);
+  src: url(/assets/Flaticon-20df13ade2db1bfb4fdbc35aad1d90169cbcf5d5b6b61f3c56b2c2ec395f50b7.eot?#iefix) format("embedded-opentype"), url(/assets/Flaticon-9c8edf9be19487b669e514a84e07d4644534812e9ba9fc9c76cfad16a2de3a3a.woff) format("woff"), url(/assets/Flaticon-097ef1404ee1accabf1d35412d4d00c6177414ca3c78d3a24583c6b821e5ce86.ttf) format("truetype"), url(/assets/Flaticon-ec7cfb326d732dfae5fa14976abb3a3b6ff021829366202bba93ec8b632b2624.svg) format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+/* line 24, app/assets/stylesheets/flaticon.css.scss.erb */
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before {
+  font-family: Flaticon;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+/* line 39, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-email-black-circular-button:before {
+  content: "\f100";
+}
+
+/* line 40, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-map:before {
+  content: "\f101";
+}
+
+/* line 41, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-alert-off:before {
+  content: "\f102";
+}
+
+/* line 42, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-alert:before {
+  content: "\f103";
+}
+
+/* line 43, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-computer:before {
+  content: "\f104";
+}
+
+/* line 44, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-responsive:before {
+  content: "\f105";
+}
+
+/* line 45, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-presentation:before {
+  content: "\f106";
+}
+
+/* line 46, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-arrows:before {
+  content: "\f107";
+}
+
+/* line 47, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-rocket:before {
+  content: "\f108";
+}
+
+/* line 48, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-reply:before {
+  content: "\f109";
+}
+
+/* line 49, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-gift:before {
+  content: "\f10a";
+}
+
+/* line 50, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-confetti:before {
+  content: "\f10b";
+}
+
+/* line 51, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-piggy-bank:before {
+  content: "\f10c";
+}
+
+/* line 52, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-support:before {
+  content: "\f10d";
+}
+
+/* line 53, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-delete:before {
+  content: "\f10e";
+}
+
+/* line 54, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-eye:before {
+  content: "\f10f";
+}
+
+/* line 55, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-multimedia:before {
+  content: "\f110";
+}
+
+/* line 56, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-whatsapp:before {
+  content: "\f111";
+}
+
+/* line 57, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-multimedia-2:before {
+  content: "\f112";
+}
+
+/* line 58, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-email:before {
+  content: "\f113";
+}
+
+/* line 59, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-presentation-1:before {
+  content: "\f114";
+}
+
+/* line 60, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-trophy:before {
+  content: "\f115";
+}
+
+/* line 61, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-psd:before {
+  content: "\f116";
+}
+
+/* line 62, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-layer:before {
+  content: "\f117";
+}
+
+/* line 63, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-doc:before {
+  content: "\f118";
+}
+
+/* line 64, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-file:before {
+  content: "\f119";
+}
+
+/* line 65, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-network:before {
+  content: "\f11a";
+}
+
+/* line 66, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-bus-stop:before {
+  content: "\f11b";
+}
+
+/* line 67, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-globe:before {
+  content: "\f11c";
+}
+
+/* line 68, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-upload:before {
+  content: "\f11d";
+}
+
+/* line 69, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-squares:before {
+  content: "\f11e";
+}
+
+/* line 70, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-technology:before {
+  content: "\f11f";
+}
+
+/* line 71, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-up-arrow:before {
+  content: "\f120";
+}
+
+/* line 72, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-browser:before {
+  content: "\f121";
+}
+
+/* line 73, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-speech-bubble:before {
+  content: "\f122";
+}
+
+/* line 74, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-coins:before {
+  content: "\f123";
+}
+
+/* line 75, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-open-box:before {
+  content: "\f124";
+}
+
+/* line 76, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-speech-bubble-1:before {
+  content: "\f125";
+}
+
+/* line 77, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-attachment:before {
+  content: "\f126";
+}
+
+/* line 78, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-photo-camera:before {
+  content: "\f127";
+}
+
+/* line 79, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-skype-logo:before {
+  content: "\f128";
+}
+
+/* line 80, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-linkedin-logo:before {
+  content: "\f129";
+}
+
+/* line 81, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-twitter-logo:before {
+  content: "\f12a";
+}
+
+/* line 82, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-facebook-letter-logo:before {
+  content: "\f12b";
+}
+
+/* line 83, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-calendar-with-a-clock-time-tools:before {
+  content: "\f12c";
+}
+
+/* line 84, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-youtube:before {
+  content: "\f12d";
+}
+
+/* line 85, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-add-circular-button:before {
+  content: "\f12e";
+}
+
+/* line 86, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-more-v2:before {
+  content: "\f12f";
+}
+
+/* line 87, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-search:before {
+  content: "\f130";
+}
+
+/* line 88, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-search-magnifier-interface-symbol:before {
+  content: "\f131";
+}
+
+/* line 89, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-questions-circular-button:before {
+  content: "\f132";
+}
+
+/* line 90, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-refresh:before {
+  content: "\f133";
+}
+
+/* line 91, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-logout:before {
+  content: "\f134";
+}
+
+/* line 92, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-event-calendar-symbol:before {
+  content: "\f135";
+}
+
+/* line 93, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-laptop:before {
+  content: "\f136";
+}
+
+/* line 94, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-tool:before {
+  content: "\f137";
+}
+
+/* line 95, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-graphic:before {
+  content: "\f138";
+}
+
+/* line 96, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-symbol:before {
+  content: "\f139";
+}
+
+/* line 97, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-graphic-1:before {
+  content: "\f13a";
+}
+
+/* line 98, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-clock:before {
+  content: "\f13b";
+}
+
+/* line 99, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-squares-1:before {
+  content: "\f13c";
+}
+
+/* line 100, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-black:before {
+  content: "\f13d";
+}
+
+/* line 101, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-book:before {
+  content: "\f13e";
+}
+
+/* line 102, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-cogwheel:before {
+  content: "\f13f";
+}
+
+/* line 103, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-exclamation:before {
+  content: "\f140";
+}
+
+/* line 104, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-add-label-button:before {
+  content: "\f141";
+}
+
+/* line 105, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-delete-1:before {
+  content: "\f142";
+}
+
+/* line 106, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface:before {
+  content: "\f143";
+}
+
+/* line 107, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-more:before {
+  content: "\f144";
+}
+
+/* line 108, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-warning-sign:before {
+  content: "\f145";
+}
+
+/* line 109, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-calendar:before {
+  content: "\f146";
+}
+
+/* line 110, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-instagram-logo:before {
+  content: "\f147";
+}
+
+/* line 111, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-linkedin:before {
+  content: "\f148";
+}
+
+/* line 112, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-facebook-logo-button:before {
+  content: "\f149";
+}
+
+/* line 113, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-twitter-logo-button:before {
+  content: "\f14a";
+}
+
+/* line 114, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-cancel:before {
+  content: "\f14b";
+}
+
+/* line 115, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-exclamation-square:before {
+  content: "\f14c";
+}
+
+/* line 116, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-buildings:before {
+  content: "\f14d";
+}
+
+/* line 117, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-danger:before {
+  content: "\f14e";
+}
+
+/* line 118, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-technology-1:before {
+  content: "\f14f";
+}
+
+/* line 119, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-letter-g:before {
+  content: "\f150";
+}
+
+/* line 120, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-1:before {
+  content: "\f151";
+}
+
+/* line 121, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-circle:before {
+  content: "\f152";
+}
+
+/* line 122, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-pin:before {
+  content: "\f153";
+}
+
+/* line 123, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-close:before {
+  content: "\f154";
+}
+
+/* line 124, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-clock-1:before {
+  content: "\f155";
+}
+
+/* line 125, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-apps:before {
+  content: "\f156";
+}
+
+/* line 126, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-user:before {
+  content: "\f157";
+}
+
+/* line 127, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-menu-button:before {
+  content: "\f158";
+}
+
+/* line 128, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-settings:before {
+  content: "\f159";
+}
+
+/* line 129, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-home:before {
+  content: "\f15a";
+}
+
+/* line 130, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-clock-2:before {
+  content: "\f15b";
+}
+
+/* line 131, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-lifebuoy:before {
+  content: "\f15c";
+}
+
+/* line 132, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-cogwheel-1:before {
+  content: "\f15d";
+}
+
+/* line 133, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-paper-plane:before {
+  content: "\f15e";
+}
+
+/* line 134, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-statistics:before {
+  content: "\f15f";
+}
+
+/* line 135, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-diagram:before {
+  content: "\f160";
+}
+
+/* line 136, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-line-graph:before {
+  content: "\f161";
+}
+
+/* line 137, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-customer:before {
+  content: "\f162";
+}
+
+/* line 138, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-visible:before {
+  content: "\f163";
+}
+
+/* line 139, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-shopping-basket:before {
+  content: "\f164";
+}
+
+/* line 140, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-price-tag:before {
+  content: "\f165";
+}
+
+/* line 141, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-businesswoman:before {
+  content: "\f166";
+}
+
+/* line 142, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-medal:before {
+  content: "\f167";
+}
+
+/* line 143, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-like:before {
+  content: "\f168";
+}
+
+/* line 144, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-edit:before {
+  content: "\f169";
+}
+
+/* line 145, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-avatar:before {
+  content: "\f16a";
+}
+
+/* line 146, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-download:before {
+  content: "\f16b";
+}
+
+/* line 147, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-home-1:before {
+  content: "\f16c";
+}
+
+/* line 148, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-mail:before {
+  content: "\f16d";
+}
+
+/* line 149, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-mail-1:before {
+  content: "\f16e";
+}
+
+/* line 150, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-warning:before {
+  content: "\f16f";
+}
+
+/* line 151, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-cart:before {
+  content: "\f170";
+}
+
+/* line 152, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-bag:before {
+  content: "\f171";
+}
+
+/* line 153, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-pie-chart:before {
+  content: "\f172";
+}
+
+/* line 154, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-graph:before {
+  content: "\f173";
+}
+
+/* line 155, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-2:before {
+  content: "\f174";
+}
+
+/* line 156, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-chat:before {
+  content: "\f175";
+}
+
+/* line 157, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-envelope:before {
+  content: "\f176";
+}
+
+/* line 158, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-chat-1:before {
+  content: "\f177";
+}
+
+/* line 159, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-3:before {
+  content: "\f178";
+}
+
+/* line 160, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-background:before {
+  content: "\f179";
+}
+
+/* line 161, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-file-1:before {
+  content: "\f17a";
+}
+
+/* line 162, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-4:before {
+  content: "\f17b";
+}
+
+/* line 163, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-multimedia-3:before {
+  content: "\f17c";
+}
+
+/* line 164, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-list:before {
+  content: "\f17d";
+}
+
+/* line 165, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-time:before {
+  content: "\f17e";
+}
+
+/* line 166, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-profile:before {
+  content: "\f17f";
+}
+
+/* line 167, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-imac:before {
+  content: "\f180";
+}
+
+/* line 168, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-medical:before {
+  content: "\f181";
+}
+
+/* line 169, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-music:before {
+  content: "\f182";
+}
+
+/* line 170, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-plus:before {
+  content: "\f183";
+}
+
+/* line 171, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-exclamation-1:before {
+  content: "\f184";
+}
+
+/* line 172, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-info:before {
+  content: "\f185";
+}
+
+/* line 173, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-menu-1:before {
+  content: "\f186";
+}
+
+/* line 174, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-menu-2:before {
+  content: "\f187";
+}
+
+/* line 175, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-share:before {
+  content: "\f188";
+}
+
+/* line 176, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-5:before {
+  content: "\f189";
+}
+
+/* line 177, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-signs:before {
+  content: "\f18a";
+}
+
+/* line 178, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-tabs:before {
+  content: "\f18b";
+}
+
+/* line 179, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-multimedia-4:before {
+  content: "\f18c";
+}
+
+/* line 180, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-upload-1:before {
+  content: "\f18d";
+}
+
+/* line 181, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-web:before {
+  content: "\f18e";
+}
+
+/* line 182, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-placeholder:before {
+  content: "\f18f";
+}
+
+/* line 183, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-placeholder-1:before {
+  content: "\f190";
+}
+
+/* line 184, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-layers:before {
+  content: "\f191";
+}
+
+/* line 185, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-6:before {
+  content: "\f192";
+}
+
+/* line 186, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-7:before {
+  content: "\f193";
+}
+
+/* line 187, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-8:before {
+  content: "\f194";
+}
+
+/* line 188, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-tool-1:before {
+  content: "\f195";
+}
+
+/* line 189, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-settings-1:before {
+  content: "\f196";
+}
+
+/* line 190, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-alarm:before {
+  content: "\f197";
+}
+
+/* line 191, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-search-1:before {
+  content: "\f198";
+}
+
+/* line 192, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-time-1:before {
+  content: "\f199";
+}
+
+/* line 193, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-stopwatch:before {
+  content: "\f19a";
+}
+
+/* line 194, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-folder:before {
+  content: "\f19b";
+}
+
+/* line 195, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-folder-1:before {
+  content: "\f19c";
+}
+
+/* line 196, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-folder-2:before {
+  content: "\f19d";
+}
+
+/* line 197, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-folder-3:before {
+  content: "\f19e";
+}
+
+/* line 198, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-file-2:before {
+  content: "\f19f";
+}
+
+/* line 199, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-list-1:before {
+  content: "\f1a0";
+}
+
+/* line 200, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-list-2:before {
+  content: "\f1a1";
+}
+
+/* line 201, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-calendar-1:before {
+  content: "\f1a2";
+}
+
+/* line 202, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-time-2:before {
+  content: "\f1a3";
+}
+
+/* line 203, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-9:before {
+  content: "\f1a4";
+}
+
+/* line 204, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-app:before {
+  content: "\f1a5";
+}
+
+/* line 205, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-suitcase:before {
+  content: "\f1a6";
+}
+
+/* line 206, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-grid-menu-v2:before {
+  content: "\f1a7";
+}
+
+/* line 207, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-more-v6:before {
+  content: "\f1a8";
+}
+
+/* line 208, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-more-v5:before {
+  content: "\f1a9";
+}
+
+/* line 209, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-add:before {
+  content: "\f1aa";
+}
+
+/* line 210, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-multimedia-5:before {
+  content: "\f1ab";
+}
+
+/* line 211, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-more-v4:before {
+  content: "\f1ac";
+}
+
+/* line 212, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-placeholder-2:before {
+  content: "\f1ad";
+}
+
+/* line 213, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-map-location:before {
+  content: "\f1ae";
+}
+
+/* line 214, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-users:before {
+  content: "\f1af";
+}
+
+/* line 215, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-profile-1:before {
+  content: "\f1b0";
+}
+
+/* line 216, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-lock:before {
+  content: "\f1b1";
+}
+
+/* line 217, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-sound:before {
+  content: "\f1b2";
+}
+
+/* line 218, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-star:before {
+  content: "\f1b3";
+}
+
+/* line 219, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-placeholder-3:before {
+  content: "\f1b4";
+}
+
+/* line 220, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-bell:before {
+  content: "\f1b5";
+}
+
+/* line 221, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-paper-plane-1:before {
+  content: "\f1b6";
+}
+
+/* line 222, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-users-1:before {
+  content: "\f1b7";
+}
+
+/* line 223, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-more-1:before {
+  content: "\f1b8";
+}
+
+/* line 224, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-up-arrow-1:before {
+  content: "\f1b9";
+}
+
+/* line 225, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-grid-menu:before {
+  content: "\f1ba";
+}
+
+/* line 226, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-alarm-1:before {
+  content: "\f1bb";
+}
+
+/* line 227, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-earth-globe:before {
+  content: "\f1bc";
+}
+
+/* line 228, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-alert-1:before {
+  content: "\f1bd";
+}
+
+/* line 229, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-internet:before {
+  content: "\f1be";
+}
+
+/* line 230, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-user-ok:before {
+  content: "\f1bf";
+}
+
+/* line 231, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-user-add:before {
+  content: "\f1c0";
+}
+
+/* line 232, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-user-settings:before {
+  content: "\f1c1";
+}
+
+/* line 233, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-truck:before {
+  content: "\f1c2";
+}
+
+/* line 234, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-analytics:before {
+  content: "\f1c3";
+}
+
+/* line 235, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-notes:before {
+  content: "\f1c4";
+}
+
+/* line 236, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-tea-cup:before {
+  content: "\f1c5";
+}
+
+/* line 237, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-exclamation-2:before {
+  content: "\f1c6";
+}
+
+/* line 238, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-technology-2:before {
+  content: "\f1c7";
+}
+
+/* line 239, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-location:before {
+  content: "\f1c8";
+}
+
+/* line 240, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-edit-1:before {
+  content: "\f1c9";
+}
+
+/* line 241, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-home-2:before {
+  content: "\f1ca";
+}
+
+/* line 242, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-dashboard:before {
+  content: "\f1cb";
+}
+
+/* line 243, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-information:before {
+  content: "\f1cc";
+}
+
+/* line 244, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-light:before {
+  content: "\f1cd";
+}
+
+/* line 245, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-car:before {
+  content: "\f1ce";
+}
+
+/* line 246, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-business:before {
+  content: "\f1cf";
+}
+
+/* line 247, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-squares-2:before {
+  content: "\f1d0";
+}
+
+/* line 248, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-signs-1:before {
+  content: "\f1d1";
+}
+
+/* line 249, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-mark:before {
+  content: "\f1d2";
+}
+
+/* line 250, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-squares-3:before {
+  content: "\f1d3";
+}
+
+/* line 251, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-comment:before {
+  content: "\f1d4";
+}
+
+/* line 252, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-shapes:before {
+  content: "\f1d5";
+}
+
+/* line 253, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-clipboard:before {
+  content: "\f1d6";
+}
+
+/* line 254, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-squares-4:before {
+  content: "\f1d7";
+}
+
+/* line 255, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-delete-2:before {
+  content: "\f1d8";
+}
+
+/* line 256, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-bell-1:before {
+  content: "\f1d9";
+}
+
+/* line 257, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-list-3:before {
+  content: "\f1da";
+}
+
+/* line 258, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-infinity:before {
+  content: "\f1db";
+}
+
+/* line 259, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-chat-2:before {
+  content: "\f1dc";
+}
+
+/* line 260, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-calendar-2:before {
+  content: "\f1dd";
+}
+
+/* line 261, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-signs-2:before {
+  content: "\f1de";
+}
+
+/* line 262, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-time-3:before {
+  content: "\f1df";
+}
+
+/* line 263, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-calendar-3:before {
+  content: "\f1e0";
+}
+
+/* line 264, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-10:before {
+  content: "\f1e1";
+}
+
+/* line 265, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-interface-11:before {
+  content: "\f1e2";
+}
+
+/* line 266, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-folder-4:before {
+  content: "\f1e3";
+}
+
+/* line 267, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-alert-2:before {
+  content: "\f1e4";
+}
+
+/* line 268, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-cogwheel-2:before {
+  content: "\f1e5";
+}
+
+/* line 269, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-graphic-2:before {
+  content: "\f1e6";
+}
+
+/* line 270, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-rotate:before {
+  content: "\f1e7";
+}
+
+/* line 271, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-feed:before {
+  content: "\f1e8";
+}
+
+/* line 272, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-safe-shield-protection:before {
+  content: "\f1e9";
+}
+
+/* line 273, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-box:before {
+  content: "\f1ea";
+}
+
+/* line 274, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-security:before {
+  content: "\f1eb";
+}
+
+/* line 275, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-download-1:before {
+  content: "\f1ec";
+}
+
+/* line 276, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-box-1:before {
+  content: "\f1ed";
+}
+
+/* line 277, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-pie-chart-1:before {
+  content: "\f1ee";
+}
+
+/* line 278, app/assets/stylesheets/flaticon.css.scss.erb */
+.flaticon-notepad:before {
+  content: "\f1ef";
+}
