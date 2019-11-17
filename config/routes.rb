@@ -16,5 +16,5 @@ Rails.application.routes.draw do
   # #   get 'login'
   # # end
   
-   root 'posts#index'
+   root 'website#index'
 end
