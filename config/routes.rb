@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  
+  root 'website#index'
   get '/auth/login', to: 'auth#login'
   post '/sessions', to: 'sessions#create'
   get '/logout', to: 'sessions#destroy'
@@ -16,5 +16,5 @@ Rails.application.routes.draw do
   # #   get 'login'
   # # end
   
-   root 'website#index'
+  
 end
